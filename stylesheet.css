@@ -1,0 +1,59 @@
+/* Style sheet for Black Jack Computer Services Home page */
+
+head{}
+body{	
+	background-color: black;
+}
+
+	    
+	#background{
+				background-image: url(images/background.jpg);
+				background-repeat: no-repeat; 
+				background-position: center;
+				margin-left: auto;
+				margin-right: auto;
+				height: 675px;
+				width: 1200px;	   
+	}
+		header{
+				height: 210px;
+		}
+			#container_left{
+							text-align: left;
+							width: 600px;
+							float: left;
+			}
+				navL{
+				}
+					navL ul{
+							list-style-type: none;
+					}
+						navL li{
+								width:125px;
+								height:40px;
+								padding-bottom: 30px;
+								text-indent: 235px;
+						}
+		
+			#container_right{
+							 text-align: right;	
+							 width: 600px;
+							 float: right;
+			}		              
+
+				navR{
+					 list-style-type: none;
+				}
+					navR ul{
+					}
+						navR li{	 
+								width:125px;
+								height:40px;
+								padding-bottom: 30px;
+								text-indent: 150px;
+						}
+		
+					       		
+		
+Footer{}
+		
