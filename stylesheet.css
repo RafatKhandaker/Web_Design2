@@ -32,25 +32,25 @@ body{
 								width:125px;
 								height:40px;
 								padding-bottom: 30px;
-								text-indent: 235px;
+								text-indent: 225px;
 						}
 		
 			#container_right{
-							 text-align: right;	
 							 width: 600px;
 							 float: right;
 			}		              
 
 				navR{
-					 list-style-type: none;
+					text-align: right;	
+					list-style-type: none;
 				}
 					navR ul{
 					}
-						navR li{	 
+						navR li{	
 								width:125px;
 								height:40px;
 								padding-bottom: 30px;
-								text-indent: 150px;
+								text-indent: 165px;
 						}
 		
 					       		
